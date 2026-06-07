@@ -113,7 +113,7 @@
 ## 🎓 Education & Certifications
 
 - 🎓 **B.Tech – Computer Science & Engineering** | AKTU, Uttar Pradesh (2015–2019)
-- 📜 **PHP & Laravel Advanced Development** – CDAC Certification (2020)
+- 📜 **PHP & Laravel Advanced Development** – CDAC Certification
 - 📜 **MySQL Performance Tuning & Optimization** – Indexing, Stored Procedures, Query Optimization
 
 ---
